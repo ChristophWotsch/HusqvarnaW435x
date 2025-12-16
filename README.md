@@ -9,6 +9,7 @@ Tools:SavvyCan
 Info: just downlaod SavvyCan and Load the Log file to get an better view.
 
 Files:
+      
       -mowing.csv is a log file that shows the Automower in its mowing state.
       -test-without-parts-only_mcu_and_motorcontroller.csv is a file that shows the Automower in a state where all sensors are disconnected, leaving only the motor controllers,BMS and the main MCU active.
       -withoutBMS.csv is a measurement in which the BMS is fully disconnected from the Automower and electrically isolated.
