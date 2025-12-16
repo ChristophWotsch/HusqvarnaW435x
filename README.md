@@ -1,7 +1,7 @@
 # HusqvarnaW435x
 Can analysis of an Automower W435x
 
-Tools:ScavyCan
+Tools:SavvyCan
       PCAN-USB:IPEH-002022
       Speed:1 Mbps
 
